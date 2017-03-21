@@ -1,5 +1,0 @@
-package com.factory.design.model;
-
-public abstract class Computer {
-
-}
